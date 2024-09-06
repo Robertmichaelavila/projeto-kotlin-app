@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#333333"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textViewFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:textAlignment="center"
+        android:textColor="#FFFF"
+        android:textFontWeight="700"
+        android:textSize="30sp"
+        android:text="Seja bem vindao App!" />
+
+    <TextView
+        android:id="@+id/textViewFragmentParagraf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:textAlignment="gravity"
+        android:textColor="#FFFF"
+        android:textFontWeight="700"
+        android:textSize="23sp"
+        android:layout_gravity="center"
+        android:text="Os motivos que me fizeram criar esse app que calcula adições, foi o fator de ser uma ideia simples e de fácil implementação visto que eu não possuo muito tempo para fazer coisas mais complexas." />
+
+    <Button
+        android:id="@+id/botaoVoltarTela"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="150dp"
+        android:layout_marginStart="110dp"
+        android:elevation="30dp"
+        android:text="@string/btnVoltar"
+        android:textSize="20sp" />
+
+    <!-- Adicione mais views aqui -->
+
+</LinearLayout>

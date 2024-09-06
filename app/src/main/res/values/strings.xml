@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Projeto Robert</string>
+    <string name="robert">Seja bem vindo ao App, Calculador de Adições!</string>
+    <string name="robert2">Insira dois números para calcular a adição!</string>
+    <string name="btn">Entrar</string>
+    <string name="btn2">Calcular</string>
+    <string name="btn3">Histórico</string>
+    <string name="input1">Digite o primeiro número</string>
+    <string name="input2">Digite o segundo número</string>
+    <string name="result">Resultado: </string>
+    <string name="msg">Histórico</string>
+    <string name="fragment">Sobre</string>
+    <string name="back">Voltar</string>
+    <string name="btnVoltar">Voltar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
